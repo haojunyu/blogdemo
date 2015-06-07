@@ -120,7 +120,7 @@ baseurl: /blogdemo
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: 雨过留声
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: merlot
 disqusname: haojunyu
